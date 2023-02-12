@@ -1,0 +1,20 @@
+{
+  "demoData": [
+    {
+      "id": 3,
+      "firstName": "anjali",
+      "lastName": "Panwar",
+      "email": "aman@example.com",
+      "salary": "79000",
+      "date": "2023-05-01"
+    },
+    {
+      "firstName": "Sonakshi",
+      "lastName": "Rawat",
+      "email": "abs@gmail.com",
+      "salary": "87000",
+      "date": "2222-09-12",
+      "id": 5
+    }
+  ]
+}
